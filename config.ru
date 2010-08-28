@@ -4,7 +4,8 @@
 require 'sinatra/base'
 
 Lookup = {
-  "gop" => "golang.org/pkg",
+  "gh" => "github.com",
+  "zt" => "www.z-trening.com/",
   "ec2" => "docs.amazonwebservices.com/AWSEC2/latest/APIReference/"
 }
 
